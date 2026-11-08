@@ -156,6 +156,23 @@ const channels = [
                 description: "India"
             },
             { 
+                name: "Sun Surya HD", 
+                sources: [
+                    { 
+                        name: "Auto", 
+                        url: "https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd",
+                        type: "dash",
+                        drm: {
+                            kid: "eae838ccd75d4a1fbff6fd7dd1c97780",
+                            key: "8259ce0c112725a4d2c94d154207425f"
+                        }
+                    }
+                ], 
+                img: "https://i.ibb.co/qLM5MfyQ/Asianet-Cinema.jpg", 
+                category: "Malayalam",
+                description: "India"
+            },
+            { 
                 name: "VTV", 
                 sources: [
                     { name: "Server 1", url: "https://live-stream.in/vtv/vtv/index.m3u8" },
