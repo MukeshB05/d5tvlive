@@ -139,6 +139,23 @@ const channels = [
                 description: "India"
             },
             { 
+                name: "Cinema", 
+                sources: [
+                    { 
+                        name: "Auto", 
+                        url: "https://ev-hw-fast-mpd.starzplayarabia.com/v1/dash/eeb5dfd8be1d42cebda3c08973c15ec684f7ea9b/EV-HW-PreRoll-Live-DASH/Asianet_Cinema/dash/drm/index.mpd",
+                        type: "dash",
+                        drm: {
+                            kid: "e31d0e29f345f1006459676f2c3afc6a",
+                            key: "e26ba29eeafe4fa7a94cacadfb13a8aa"
+                        }
+                    }
+                ], 
+                img: "https://i.ibb.co/B2wV4rSL/Cinema.jpg", 
+                category: "Malayalam",
+                description: "India"
+            },
+            { 
                 name: "VTV", 
                 sources: [
                     { name: "Server 1", url: "https://live-stream.in/vtv/vtv/index.m3u8" },
