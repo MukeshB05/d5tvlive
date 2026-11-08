@@ -151,7 +151,7 @@ const channels = [
                         }
                     }
                 ], 
-                img: "https://i.ibb.co/B2wV4rSL/Cinema.jpg", 
+                img: "https://i.ibb.co/qLM5MfyQ/Asianet-Cinema.jpg", 
                 category: "Malayalam",
                 description: "India"
             },
