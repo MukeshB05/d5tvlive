@@ -139,6 +139,23 @@ const channels = [
                 description: "India"
             },
             { 
+                name: "Sun Surya HD", 
+                sources: [
+                    { 
+                        name: "Auto", 
+                        url: "https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd",
+                        type: "dash",
+                        drm: {
+                            kid: "eae838ccd75d4a1fbff6fd7dd1c97780",
+                            key: "8259ce0c112725a4d2c94d154207425f"
+                        }
+                    }
+                ], 
+                img: "https://i.ibb.co/3Y7M1Ss8/Sun-Surya-HD.jpg", 
+                category: "Malayalam",
+                description: "India"
+            },
+            { 
                 name: "Cinema", 
                 sources: [
                     { 
@@ -156,19 +173,19 @@ const channels = [
                 description: "India"
             },
             { 
-                name: "Sun Surya HD", 
+                name: "Asianet Plus", 
                 sources: [
                     { 
                         name: "Auto", 
-                        url: "https://b4uplay.com/sunxt/livestream15.sunnxt.com/54ce8446ac9e412591bba4de574760d5/SuryaTVHD_P_IN_index.mpd",
+                        url: "https://ev-fast-mpd.starzplayarabia.com/live/eds/AsianetPlus/DASH/AsianetPlus.mpd",
                         type: "dash",
                         drm: {
-                            kid: "eae838ccd75d4a1fbff6fd7dd1c97780",
-                            key: "8259ce0c112725a4d2c94d154207425f"
+                            kid: "3d96e31216eb9c87bc8f5ba75148cd01",
+                            key: "34dc53e52b1ed8ee172e409f6a5d87aa"
                         }
                     }
                 ], 
-                img: "https://i.ibb.co/3Y7M1Ss8/Sun-Surya-HD.jpg", 
+                img: "https://i.ibb.co/XZZkqjmz/Asianet-Plus.jpg", 
                 category: "Malayalam",
                 description: "India"
             },
