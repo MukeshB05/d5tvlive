@@ -168,7 +168,7 @@ const channels = [
                         }
                     }
                 ], 
-                img: "https://i.ibb.co/qLM5MfyQ/Asianet-Cinema.jpg", 
+                img: "https://i.ibb.co/3Y7M1Ss8/Sun-Surya-HD.jpg", 
                 category: "Malayalam",
                 description: "India"
             },
