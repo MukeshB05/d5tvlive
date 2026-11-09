@@ -156,7 +156,7 @@ const channels = [
                 description: "India"
             },
             { 
-                name: "Cinema", 
+                name: "Asianet Cinema", 
                 sources: [
                     { 
                         name: "Auto", 
@@ -296,6 +296,23 @@ const channels = [
                 ], 
                 img: "https://i.ibb.co/tMSfWqW3/Ommtvngl500x500.jpg", 
                 category:  ["PLC - KK District", "Tamilnadu", "Tamil", "India"],
+                description: "India"
+            },
+            { 
+                name: "Asianet Middle East", 
+                sources: [
+                    { 
+                        name: "Auto", 
+                        url: "https://ev-eu-hw-fast-mpd.starzplayarabia.com/Asianet_ME/dash/drm/index.mpd",
+                        type: "dash",
+                        drm: {
+                            kid: "dc3c55943aeac7d8af755891b07de526",
+                            key: "eb8538defc9051dc471e9a75dc955180"
+                        }
+                    }
+                ], 
+                img: "https://i.ibb.co/vxf58gL9/Asianet-Middle-East.jpg", 
+                category: "Malayalam",
                 description: "India"
             },
             { 
@@ -1407,7 +1424,7 @@ const channels = [
             { 
                 name: "Fox TV", 
                 sources: [
-                    { name: "Server 1", url: "https://cors-proxy.cooks.fyi/http://103.118.151.130:11037/hls/fox.m3u8" },
+                    { name: "Server 1", url: "https://dreamlyproxy.mukeshlive.workers.dev/http://103.118.151.130:11037/hls/fox.m3u8" },
                 ], 
                 img: "https://i.ibb.co/qYTZTRkL/FoxTV.jpg", 
                 category: "Local Cable Channel (Kerala)",
@@ -1947,7 +1964,7 @@ const channels = [
             { 
                 name: "Zeal", 
                 sources: [
-                    { name: "Server 1", url: "https://cors-proxy.cooks.fyi/https://js.logichost.in/hls/b3bca7915be6d35ccf447122/index.m3u8" },
+                    { name: "Server 1", url: "https://dreamlyproxy.mukeshlive.workers.dev/https://js.logichost.in/hls/b3bca7915be6d35ccf447122/index.m3u8" },
                 ], 
                 img: "https://i.ibb.co/HT1vzrPr/Zeal.jpg", 
                 category: "Local Cable Channel (Kerala)",
