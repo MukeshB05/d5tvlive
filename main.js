@@ -394,7 +394,7 @@ const channels = [
                 name: "Media One",
                 sources: [
                     { name: "Server 1", url: "https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/index.m3u8" },
-                    { name: "Server 1", url: "https://cdn-3.pishow.tv/live/1481/master.m3u8" }
+                    { name: "Server 2", url: "https://cdn-3.pishow.tv/live/1481/master.m3u8" }
                 ], 
                 img: "https://i.ibb.co/8nnfwKnC/Mediaone.jpg", 
                 category: "News",
