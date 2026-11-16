@@ -419,7 +419,7 @@ const channels = [
             { 
                 name: "Rowthiram TV", 
                 sources: [
-                    { name: "Server 1", url: "https://live3.onecloudlive.in/eleventv/eleventv/index.m3u8" }
+                    { name: "Server 1", url: "https://live.applelive.in/rowthiramtv/rowthiramtv/index.m3u8" }
                 ], 
                 img: "https://i.ibb.co/DDMmJQ4h/Rowthiram-TV.jpg", 
                 category:  ["PLC - KK District", "Tamilnadu", "Tamil", "India"],
