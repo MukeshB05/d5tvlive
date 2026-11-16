@@ -1718,6 +1718,15 @@ const channels = [
                 description: "India"
             },
             { 
+                name: "Nattuvartha", 
+                sources: [
+                    { name: "Server 1", url: "https://live.skystream.in/live/nattuvartha5945/index.m3u8" },
+                ], 
+                img: "https://i.ibb.co/SCsPFc8/Nattuvartha.jpg", 
+                category: "Local Cable Channel (Kerala)",
+                description: "India"
+            },
+            { 
                 name: "Annai TV HD", 
                 sources: [
                     { name: "Server 1", url: "https://annainew.livebox.co.in/annailivehls/live.m3u8" },
