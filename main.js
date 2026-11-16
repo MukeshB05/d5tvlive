@@ -336,7 +336,8 @@ const channels = [
             { 
                 name: "Mathrubhumi News",
                 sources: [
-                    { name: "Server 1", url: "https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8" }
+                    { name: "Server 1", url: "https://dn5yap910rvbg.cloudfront.net/live/mbnews/master.m3u8" },
+                    { name: "Server 2", url: "https://segment.yuppcdn.net/110322/mathrubhuminews/playlist.m3u8" }
                 ], 
                 img: "https://i.ibb.co/9HYCvZJd/mathrubhumi.jpg", 
                 category: "News",
@@ -392,6 +393,7 @@ const channels = [
             { 
                 name: "Media One",
                 sources: [
+                    { name: "Server 1", url: "https://mumt01.tangotv.in/O5aw8Zn3MEDIAONETV/index.m3u8" },
                     { name: "Server 1", url: "https://cdn-3.pishow.tv/live/1481/master.m3u8" }
                 ], 
                 img: "https://i.ibb.co/8nnfwKnC/Mediaone.jpg", 
@@ -466,7 +468,8 @@ const channels = [
             { 
                 name: "Kairali We", 
                 sources: [
-                    { name: "Server 1", url: "https://cdn-3.pishow.tv/live/1530/master.m3u8" }
+                    { name: "Server 1", url: "https://cdn-3.pishow.tv/live/1530/master.m3u8" },
+                    { name: "Server 1", url: "https://streams.tangotv.in/WETV/ORIGIN/tracks-v1a1/mono.m3u8" }
                 ], 
                 img: "https://i.ibb.co/qYP82pkd/we.jpg", 
                 category: "Malayalam",
