@@ -1091,7 +1091,7 @@ const channels = [
             { 
                 name: "Balatrara Vision", 
                 sources: [
-                    { name: "Server 1", url: "https://cors-proxy.cooks.fyi/http://cloud.logichost.in:1935/BALATARA/live/index.m3u8" },
+                    { name: "Server 1", url: "https://dreamlyproxy.mukeshlive.workers.dev/http://cloud.logichost.in:1935/BALATARA/live/index.m3u8" },
                 ], 
                 img: "https://i.ibb.co/v4q0z10V/Balatrara-Vision.jpg", 
                 category: "Trivandrum District Local Channel",
