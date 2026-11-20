@@ -38,6 +38,15 @@ const channels = [
                 description: "India"
             },
             { 
+                name: "KKTDC TV", 
+                sources: [
+                    { name: "Server 1", url: "https://applelive.in/kktdctv/kktdctv/index.m3u8" }
+                ], 
+                img: "https://i.ibb.co/qYM4pSS2/kktdctv.jpg", 
+                category: ["PLC - KK District", "Tamilnadu", "Tamil", "India"],
+                description: "India"
+            },
+            { 
                 name: "MCN HD", 
                 sources: [
                     { name: "Server 1", url: "https://applelive.in/mcntv/mcntv/index.m3u8" }
